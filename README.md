@@ -16,10 +16,10 @@ An AI-powered tool to generate, explain, audit, and optimize Solidity smart cont
 
  Tech Stack
 
-- Next.js 14 + TypeScript**
-- Ethers.js**
-- Solidity**
-- OpenAI API**
+- Next.js 14 + TypeScript
+- Ethers.js
+- Solidity
+- OpenAI API
 - Tailwind/SASS 
 
 
